@@ -1,10 +1,9 @@
-import React from 'react';
 
 const ProjectStructure = () => (
   <section>
     <h3>Project Directory Organization</h3>
     <pre style={{ background: '#23283a', padding: '1rem', borderRadius: '6px', overflow: 'auto' }}>
-{`Physical-Attendance-Automation/
+{`Physical Attendance/
 ├── Backend/                    # Django REST API
 │   ├── attendance/             # Main app
 │   │   ├── models.py          # Database models

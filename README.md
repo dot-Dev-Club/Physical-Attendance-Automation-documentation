@@ -1,6 +1,6 @@
-# Physical Attendance Automation - Project Documentation
+# Physical Attendance - Project Documentation
 
-A professional, modern documentation website for the [Physical Attendance Automation](https://github.com/dot-Dev-Club/Physical-Attendance-Automation) project, built with React, Vite, and TypeScript.
+A professional, modern documentation website for the [Physical Attendance](https://github.com/dot-Dev-Club/Physical-Attendance-Automation) project, built with React, Vite, and TypeScript.
 
 ## 📋 Documentation Sections
 
@@ -103,7 +103,7 @@ To customize the documentation:
 
 ## 📄 License
 
-This documentation site is created for the Physical Attendance Automation project, developed for educational purposes as part of the university dot dev club.
+This documentation site is created for the Physical Attendance project, developed for educational purposes as part of the university dot dev club.
 
 ## 🤝 Contributing
 

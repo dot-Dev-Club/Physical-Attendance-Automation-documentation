@@ -1,13 +1,12 @@
-import React from 'react';
 
 const SystemArch = () => (
   <section>
     <p>
-      The Physical Attendance Automation System is built as a modern full-stack application using React on the frontend and Django REST Framework on the backend, communicating through RESTful APIs.
+      The Physical Attendance system is built as a modern full-stack application using React on the frontend and Django REST Framework on the backend, communicating through RESTful APIs.
     </p>
     <h3>System Architecture Diagram</h3>
     <pre style={{ background: '#23283a', padding: '1rem', borderRadius: '6px', overflow: 'auto' }}>
-{`Physical Attendance Automation System
+{`Physical Attendance system
 ├── Frontend (React + TypeScript)
 │   ├── Student Portal
 │   ├── Faculty Dashboard

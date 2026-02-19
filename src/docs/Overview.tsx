@@ -1,9 +1,8 @@
-import React from 'react';
 
 const Overview = () => (
   <section>
     <p>
-      <strong>Physical Attendance Automation</strong> is a modern full-stack web application for managing student physical attendance requests in educational institutions with a two-tier faculty approval workflow and automated email notifications.
+      <strong>Physical Attendance</strong> is a modern full-stack web application for managing student physical attendance requests in educational institutions with a two-tier faculty approval workflow and automated email notifications.
     </p>
 
     <h3>System Overview</h3>
